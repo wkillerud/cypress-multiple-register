@@ -2,7 +2,7 @@
 
 Demonstration of an issue for a feature request
 
-tl;dr – when launching a browser it would be nice if Cypress ran both functions for `before:browser:launch`, printing `👋 Hello, World! 🌍`
+tl;dr – when launching a browser it would be nice if Cypress ran both functions for `before:browser:launch`, printing `👋 Hello, World! 🌍`. As it is, it only prints `World! 🌍`
 
 ## Why do you need this?
 
